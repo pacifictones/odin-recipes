@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color:rgb(91, 123, 153);
+    background-color: rgb(241, 232, 210);
+    font-weight: lighter;
+}
+
+p, li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    color:darkred;
+}
